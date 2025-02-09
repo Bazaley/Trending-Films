@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Trending-Films/static/css/main.f0ce46de.css",
+    "main.js": "/Trending-Films/static/js/main.4d3529dc.js",
+    "static/js/544.726231be.chunk.js": "/Trending-Films/static/js/544.726231be.chunk.js",
+    "static/js/638.cd9e8a18.chunk.js": "/Trending-Films/static/js/638.cd9e8a18.chunk.js",
+    "static/js/151.7b52afb4.chunk.js": "/Trending-Films/static/js/151.7b52afb4.chunk.js",
+    "static/js/561.2244b833.chunk.js": "/Trending-Films/static/js/561.2244b833.chunk.js",
+    "static/js/265.23b8b031.chunk.js": "/Trending-Films/static/js/265.23b8b031.chunk.js",
+    "static/js/767.63d8da13.chunk.js": "/Trending-Films/static/js/767.63d8da13.chunk.js",
+    "static/js/468.973812a9.chunk.js": "/Trending-Films/static/js/468.973812a9.chunk.js",
+    "static/js/175.8d3ef8fd.chunk.js": "/Trending-Films/static/js/175.8d3ef8fd.chunk.js",
+    "static/js/440.81aa56e9.chunk.js": "/Trending-Films/static/js/440.81aa56e9.chunk.js",
+    "index.html": "/Trending-Films/index.html",
+    "main.f0ce46de.css.map": "/Trending-Films/static/css/main.f0ce46de.css.map",
+    "main.4d3529dc.js.map": "/Trending-Films/static/js/main.4d3529dc.js.map",
+    "544.726231be.chunk.js.map": "/Trending-Films/static/js/544.726231be.chunk.js.map",
+    "638.cd9e8a18.chunk.js.map": "/Trending-Films/static/js/638.cd9e8a18.chunk.js.map",
+    "151.7b52afb4.chunk.js.map": "/Trending-Films/static/js/151.7b52afb4.chunk.js.map",
+    "561.2244b833.chunk.js.map": "/Trending-Films/static/js/561.2244b833.chunk.js.map",
+    "265.23b8b031.chunk.js.map": "/Trending-Films/static/js/265.23b8b031.chunk.js.map",
+    "767.63d8da13.chunk.js.map": "/Trending-Films/static/js/767.63d8da13.chunk.js.map",
+    "468.973812a9.chunk.js.map": "/Trending-Films/static/js/468.973812a9.chunk.js.map",
+    "175.8d3ef8fd.chunk.js.map": "/Trending-Films/static/js/175.8d3ef8fd.chunk.js.map",
+    "440.81aa56e9.chunk.js.map": "/Trending-Films/static/js/440.81aa56e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ce46de.css",
+    "static/js/main.4d3529dc.js"
+  ]
+}
